@@ -1,4 +1,7 @@
 ## Hey, I'm Ikram 👋
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-ikram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikram-chaib-082a0b359/)](https://www.linkedin.com/in/ikram-chaib-082a0b359/) [![Gmail Badge](https://img.shields.io/badge/-ikram.chaib87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ikram.chaib87@gmail.com)](mailto:ikram.chaib87@gmail.com)
 
 <h3>Welcome to my digital workspace</h3>
 
