@@ -31,7 +31,3 @@ Computer Science student exploring AI, data, and digital solutions.
 - Building structured, real-world projects  
 - Strengthening analytical thinking  
 - Expanding my technical depth  
-
----
-
-> Curious mind. Structured thinking. Continuous growth.
